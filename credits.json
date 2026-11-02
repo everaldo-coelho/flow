@@ -1,0 +1,77 @@
+{
+  "generated" : [
+    {
+      "file" : "Assets/moss.png"
+    },
+    {
+      "file" : "Assets/rabbit.png"
+    },
+    {
+      "file" : "Assets/cat.png"
+    },
+    {
+      "file" : "Assets/fox.png"
+    },
+    {
+      "file" : "Assets/fox-animations.png"
+    },
+    {
+      "file" : "Assets/cat-animations.png"
+    },
+    {
+      "file" : "Assets/rabbit-animations.png"
+    },
+    {
+      "file" : "Assets/moss-animations.png"
+    },
+    {
+      "file" : "Assets/cat-celebration-24.png"
+    },
+    {
+      "file" : "Assets/rabbit-celebration-24.png"
+    },
+    {
+      "file" : "Assets/fox-celebration-24.png"
+    },
+    {
+      "file" : "Assets/moss-celebration-24.png"
+    },
+    {
+      "file" : "Assets/cat-celebration-pounce-24.png"
+    },
+    {
+      "file" : "Assets/juno-bow-1.png"
+    },
+    {
+      "file" : "Assets/juno-bow-2.png"
+    },
+    {
+      "file" : "Assets/juno-bow-4.png"
+    },
+    {
+      "file" : "Assets/juno-bow-3.png"
+    },
+    {
+      "file" : "Assets/penguin-animations.png"
+    },
+    {
+      "file" : "Assets/penguin-celebration-24.png"
+    },
+    {
+      "file" : "Assets/cockatiel-animations.png"
+    },
+    {
+      "file" : "Assets/cockatiel-celebration-24.png"
+    }
+  ],
+  "remixOf" : [
+    {
+      "name" : "FLOW.",
+      "url" : "https://github.com/everaldo-coelho/flow",
+      "wish" : "842B5B25-337F-46AA-AF46-457D1F952B78"
+    }
+  ],
+  "upstream" : [
+
+  ]
+}
